@@ -8,7 +8,6 @@ pipeline
             steps
             {
             echo "Contact SUCCESSFUL"
-
             }
         }
 
